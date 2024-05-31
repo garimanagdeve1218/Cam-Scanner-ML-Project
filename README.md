@@ -1,2 +1,2 @@
-#Building Document Scanner Using OpenCV
+#Building Document Scanner Using OpenCV<br>
 Machine Learning Project
