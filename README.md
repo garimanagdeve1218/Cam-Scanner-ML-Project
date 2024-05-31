@@ -1,4 +1,3 @@
-Building Document Scanner Using OpenCV
-
+Building a Cam Scanner using OpenCv
 <br>
 Machine Learning Project
